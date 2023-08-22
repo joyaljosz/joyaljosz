@@ -29,7 +29,7 @@ I am an Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Exploring into deep Data Science World.
 - 💬 Ask me about any queries on Data Science.
 - :zap: In my free time, I used to play games.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-joyal_josz-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/joyal-josz))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-joyal_josz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-josz)
 
 ___
 
