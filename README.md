@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/joyal-josz)">
+    <a href="https://www.linkedin.com/in/joyal-josz">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 <!--     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a> -->
-    <a href="[your-twitter-URL](https://twitter.com/JoyalJosz?t=BPNkz0kgffaSWSl5btt7wA&s=35)">
+    <a href="https://twitter.com/JoyalJosz">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -29,7 +29,6 @@ I am an Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Exploring into deep Data Science World.
 - 💬 Ask me about any queries on Data Science.
 - :zap: In my free time, I used to play games.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-joyal_josz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-josz)
 
 ___
 
