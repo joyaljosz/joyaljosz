@@ -53,8 +53,7 @@ ___
           
 ---
 
-### :fire: My Stats :  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyaljosz&theme=dark&background=000000)
+
 
 
 
