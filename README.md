@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="" alt="" width="100px"/>
+  <img src="https://media.giphy.com/media/AXorq76Tg3Vte/giphy.gif" alt="" width="200px"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/joyal-josz">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
