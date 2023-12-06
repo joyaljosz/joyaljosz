@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+  <img src="" alt="" width="100px"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/joyal-josz">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +17,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:640/1*YCrp0Z8mAOe2IUV9XmlEDw.gif" width="600" height="300"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
   </div>
 </div>
 
