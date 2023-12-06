@@ -22,8 +22,7 @@
 </div>
 
 ___
-
-### :man_technologist: About Me :
+### About Me :
 I am an Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently working on transforming raw data into meaningful insights using machine learning algorithms.
 - :seedling: Exploring into deep Data Science World.
@@ -32,7 +31,7 @@ I am an Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 
 ___
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
