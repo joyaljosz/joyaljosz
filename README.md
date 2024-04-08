@@ -23,8 +23,8 @@
 
 ___
 ### About Me :
-I am an Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently working on transforming raw data into meaningful insights using machine learning algorithms.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m currently working on developing real world applications.
 - :seedling: Exploring into deep Data Science World.
 - 💬 Ask me about any queries on Data Science.
 - :zap: In my free time, I used to play games.
